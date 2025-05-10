@@ -2,7 +2,8 @@
 Teori Dasar
 
 ## Pertemuan 2
-Vault
+- Vault
+- Mock USDC
 
 ## Pertemuan 3
 - Lending
